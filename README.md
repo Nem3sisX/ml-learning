@@ -22,7 +22,7 @@ What things you need to install the software and how to install them
 ### Installation
 
   * Clone this repository from [here](https://github.com/Nem3sisX/ml-learning.git).
-  * Run programs using any preferred IDE. ( I used PyCharm Community Edition 2018.3.3 :P )
+  * Run programs using any preferred IDE. ( I used PyCharm Community Edition 2018.3.3 ) :P
   * If anything interesting pops up do let me know. :D
 
 ## Built With
