@@ -4,8 +4,8 @@ explored Machine Learning and its Fundamentals in my freshman year at college an
   * created original algorithms and implemented them on original datasets wherever possible.
   * used scikitlearn and used existing libraries to implement learned theory.
 
-* Original Algorithms [here](https://github.com/Nem3sisX/ml-learning/tree/master/ml-learning/algorithms)  
-* sklearn algorithms and personal implementations of these algorithms [here](https://github.com/Nem3sisX/ml-learning/tree/master/ml-learning/learning-projects) 
+1. Original Algorithms [here](https://github.com/Nem3sisX/ml-learning/tree/master/ml-learning/algorithms)  
+2. sklearn algorithms and personal implementations of these algorithms [here](https://github.com/Nem3sisX/ml-learning/tree/master/ml-learning/learning-projects) 
 
 Planning to foray deeper into ML as this Learning endeavor has piqued my interest in this field  
 
